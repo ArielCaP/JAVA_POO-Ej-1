@@ -2,7 +2,7 @@
 
 ## Enunciado
 >La empresa RentaESFOT alquila dos tipos de vehículos: autos y camionetas. Todos los vehículos tienen placa, marca, modelo y tarifa diaria base. Además, el auto registra el número de puertas y si tiene aire acondicionado, y la camioneta registra su capacidad de carga en toneladas.
-La tarifa diaria real depende del tipo. Si el auto tiene aire acondicionado, a la tarifa base se le suman $10. A la camioneta se le aplica un recargo del 15 % sobre la tarifa base cuando su capacidad de carga supera las 1.5 toneladas.
+La tarifa diaria real depende del tipo. Si el auto tiene aire acondicionado, a la tarifa base se le suman $10. A la camioneta se le aplica un recargo del 15 % sobre la tarifa base cuando su capacidad de carga supera las 1.5 toneladas. 
 
 ## El sistema deberá: 
 
